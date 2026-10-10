@@ -31,10 +31,10 @@ The selected model was fitted on the full labeled training dataset to generate t
 | Model | Validation MAE | Validation RMSE |
 |---|---:|---:|
 | CatBoost | $108.35 | $645.59 |
-| XGBoost | $174.89 | Not recorded |
-| Linear Regression | $180.54 | Not recorded |
-| Random Forest | $216.49 | Not recorded |
-| KNN | $273.07 | Not recorded |
+| XGBoost | $174.89 | 721.867850	 |
+| Linear Regression | $180.54 | 681.418029 |
+| Random Forest | $216.49 | 723.550336	 |
+| KNN | $273.07 | 713.205182 |
 
 These are the recorded results from the local temporal validation experiment. Spotter calculates the final validation metrics after submission.
 
